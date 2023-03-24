@@ -7,7 +7,7 @@
 - [Drobots](#Drobots)
 - [Passman](#Passman)
 - [Orbital](#Orbital)
-- [Didactic Octo Paddles](#Didactic Octo Paddles)
+- [Didactic Octo Paddles](#Didactic-Octo-Paddles)
 
 ## Trapped Source
 
