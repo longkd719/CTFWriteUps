@@ -11,6 +11,7 @@
 | [Microservices](./Microservices)                   | 58     | 50     |
 | [Microservices Revenge](./Microservices%20Revenge) | 53     | 50     |
 | [View My Albums](./View%20My%20Albums)             | 36     | 280    |
+| [Sort It Out](./Sort%20It%20Out)                   | 21     | 428    |
 
 ![image-20230524175215023](./assets/image-20230524175215023.png)
 
