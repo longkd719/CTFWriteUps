@@ -2,7 +2,11 @@
 
 ![image-20230619172618157](./assets/image-20230619172618157.png)
 
-Hint: <a href="#" onclick="alert('Kho^ng ca\n RCEEEeeeeeee!');">Hint 1</a> - <a href="#" onclick="alert('docker? df -h');">Hint 2</a>
+> :warning:
+>
+> Hint 1: Kho^ng ca\n RCEEEeeeeeee!'
+>
+> Hint 2: docker? df -h
 
 Truy cập trang web là mình nhận được source code
 

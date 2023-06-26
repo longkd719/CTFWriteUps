@@ -2,7 +2,11 @@
 
 ![image-20230619140718231](./assets/image-20230619140718231.png)
 
-Hint: <a href="#" onclick="alert('Server-side Template Injection liệu có khả thi ??? Hay còn một cách nào khác ????? 🤔🤔🤔🤔🤔');">Hint 1</a> - <a href="#" onclick="alert('`if word in string.lower()[:MAX_LENGTH]:`');">Hint 2</a>
+> :warning:
+>
+> Hint 1: Server-side Template Injection liệu có khả thi ??? Hay còn một cách nào khác ????? 🤔🤔🤔🤔🤔 
+>
+> Hint 2: `if word in string.lower()[:MAX_LENGTH]:`
 
 Giao diện trang web là một form điền template và variable tương ứng
 
