@@ -242,7 +242,7 @@ Set coin bằng biến `@z` -> thành công
 
 ![image-20230625201457041](./assets/image-20230625201457041.png)
 
-Mua naruto để giảm coin xuống 1337
+Không có Sakura nên mình tạm mua Naruto với giá 1 xu để giảm coin xuống 1337 🤐
 
 ![image-20230625201618433](./assets/image-20230625201618433.png)
 
